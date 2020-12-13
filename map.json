@@ -896,14 +896,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":321,
-         "source":"..\/street_light.tsx"
-        }, 
-        {
-         "firstgid":345,
-         "source":"..\/road_markings_white.tsx"
         }],
  "tilewidth":32,
  "type":"map",
